@@ -6,7 +6,7 @@ void setup() {
 }
 
 void loop() {
-  
+  Serial.println("Bienvenido!");
   Serial.println("Ingrese un valor");
 
   while (true) {
